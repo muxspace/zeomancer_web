@@ -1,0 +1,9 @@
+<div class="{{.class}} pv4">
+  <div class="ph3 mw7 center">
+    <h2 class="f2 b lh-title mb2">{{.heading}}</h2>
+    <p class="mb4 mw6 center tc">{{.text}}</p>
+    {{ with .image }}
+    <img src="{{ . }}" alt="" class="br4 mb3 w-60">
+    {{ end }}
+  </div>
+</div>

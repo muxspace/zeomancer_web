@@ -72,6 +72,12 @@
   background-color: var(--black);
 }
 
+.bg-dark-green { background-color: var(--dark-green); }
+.bg-green { background-color: var(--green); }
+.bg-navy { background-color: var(--navy); }
+.bg-dark-blue { background-color: var(--dark-blue); }
+.bg-blue { background-color: var(--blue); }
+
 .bg-fix-primary {
   padding: 0 var(--spacing-small);
   & :first-child {
