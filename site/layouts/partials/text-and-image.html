@@ -13,9 +13,12 @@
 			</div>
 		</div>
 
+    {{ $buttonText := .buttonText }}
+    {{ with .buttonLink }}
 		<div class="tc">
-			<a href="{{.buttonLink}}" class="btn raise">{{.buttonText}}</a>
+			<a href="{{ . }}" class="btn raise">{{$buttonText}}</a>
 		</div>
+    {{ end }}
 
 	</div>
 </div>
