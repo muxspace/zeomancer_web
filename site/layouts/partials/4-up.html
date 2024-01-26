@@ -15,7 +15,12 @@
 		<!--</div>-->
     </div>
 
-    <div class="fl w-100 w-third-ns pa2">
+    <div class="fl w-100 w-third-ns pa2 mt6">
+      {{ with .showcase }}
+				<div class="ph2-ns w-100-ns mb4">
+					<img src="{{ .image }}" alt="" class="center db mb3" style="width: 240px">
+				</div>
+      {{ end }}
     </div>
 
     <div class="fl w-100 w-third-ns pa2">

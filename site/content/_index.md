@@ -8,12 +8,12 @@ image: /img/home-jumbotron-farm2.jpg
 what_blurb:
     class: bg-grey-1
     heading: "Pre-order a device for yourself, and we'll give one to a farmer in Africa"
-    text: "We're partnered with organizations in Tanzania and Kenya to distribute a minimum 1200 devices to farmers in those countries. Your purchase of a device covers the cost of another device for a farmer there."
-    image: /img/zeomancer_device_1.jpg
+    text: "We're partnered with organizations in Tanzania and Kenya to distribute at least 1200 devices to farmers in those countries. Your purchase of a device covers the cost of another device for a farmer there. Help us reach all of these farmers by supporting our crowdfunding campaign!"
+    image: /img/platform_4.png
 
 signup:
-    heading: Sign up now and get 40% OFF!
-    subheading: Launching on Kickstarter soon
+    heading: Sign up now and get 40% OFF the retail price!
+    subheading: Launching on Kickstarter soon 👇
 
 # text-and-image
 why_blurb:
@@ -26,13 +26,13 @@ why_blurb:
 why_icons:
   class: bg-grey-1
   items:
-  - image: /img/seed_sprout_8.jpeg
+  - image: img/seed_sprout_8.jpeg
     bg: FCBA9A
     text: "Soil that is too dry or too wet hinders germination and reduces yields. With weather forecasts, farmers can sow seeds at the right time to maximize yields."
-  - image: /img/drought_maize_5.jpeg
+  - image: img/drought_maize_5.jpeg
     bg: FBF0D2
     text: "Many farmers rely on rain to quench their crops. With more frequent and longer dry spells, farmers need to know how long they need to wait for rain."
-  - image: /img/farm_flood_13.jpeg
+  - image: img/farm_flood_13.jpeg
     bg: F9F3DB
     text: "While rain is less frequent, the intensity of storms is increasing. Farmers need to protect against floods and other water events."
 
@@ -40,6 +40,9 @@ why_icons:
 zeo_uses:
   heading: "One device, many uses"
   text: "Zeomancer is more than a personal weather station. With optional sensors, it can monitor soil conditions in your garden, monitor your indoor or outdoor air quality, and more!"
+  showcase:
+    #image: img/zeomancer_profile_transparent.png
+    image: img/zeomancer_device_transparent_bg.png
   items:
   - image: img/icons/crop_sensor_2.jpeg
     text: "Measure soil temperature and moisture and protect your garden from drought and rot."
