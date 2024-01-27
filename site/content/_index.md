@@ -9,7 +9,8 @@ what_blurb:
     class: bg-grey-1
     heading: "Pre-order a device for yourself, and we'll give one to a farmer in Africa 🙌"
     text: "We're partnered with organizations in Tanzania and Kenya to distribute at least 1200 devices to farmers in those countries. Help us reach all of these farmers by supporting our crowdfunding campaign. Your purchase of a device covers the cost of another device for a farmer there."
-    image: /img/platform_4.png
+    #image: /img/platform_4.png
+    image: /img/zeomancer_device_2.jpeg
 
 signup:
     heading: Sign up now 👇 and get 40% OFF the retail price!
