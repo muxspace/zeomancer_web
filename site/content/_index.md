@@ -8,19 +8,19 @@ image: /img/home-jumbotron-farm2.jpg
 what_blurb:
     class: bg-grey-1
     heading: "Pre-order a device for yourself, and we'll give one to a farmer in Africa 🙌"
-    text: "We're partnered with organizations in Tanzania and Kenya to distribute at least 1200 devices to farmers in those countries. Your purchase of a device covers the cost of another device for a farmer there. Help us reach all of these farmers by supporting our crowdfunding campaign"
+    text: "We're partnered with organizations in Tanzania and Kenya to distribute at least 1200 devices to farmers in those countries. Help us reach all of these farmers by supporting our crowdfunding campaign. Your purchase of a device covers the cost of another device for a farmer there."
     image: /img/platform_4.png
 
 signup:
-    heading: Sign up now and get 40% OFF the retail price!
-    subheading: Launching on Kickstarter soon 👇
+    heading: Sign up now 👇 and get 40% OFF the retail price!
+    subheading: Launching on Kickstarter soon
 
 # text-and-image
 why_blurb:
   heading: Why weather stations?
   text: "Farmers comprise more than 70% of the population of Africa and subsist on the food they grow. These farmers have no access to weather forecasts and are at the mercy of the heavens. That results in crop losses of 30% or more per year. Access to reliable, hyperlocal weather forecasts does more than help farmers adapt to climate change. They also increase food security and help alleviate poverty."
   image: /img/tanzania_children_1_8x_r04_crop.jpeg
-  caption: A test site for Zeomancer in the Katavi region of Tanzania. Most farmers do not have machinery or irrigation, not to mention weather forecasts. Photo courtesy Abdala Liingiia.
+  caption: A test site for Zeomancer in the Katavi region of Tanzania. Most farmers do not have machinery or irrigation, not to mention weather forecasts. Photo courtesy Abdala Liingilie.
 
 # 3-up
 why_icons:
