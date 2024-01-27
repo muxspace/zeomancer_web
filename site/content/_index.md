@@ -7,8 +7,8 @@ image: /img/home-jumbotron-farm2.jpg
 # long-text
 what_blurb:
     class: bg-grey-1
-    heading: "Pre-order a device for yourself, and we'll give one to a farmer in Africa"
-    text: "We're partnered with organizations in Tanzania and Kenya to distribute at least 1200 devices to farmers in those countries. Your purchase of a device covers the cost of another device for a farmer there. Help us reach all of these farmers by supporting our crowdfunding campaign!"
+    heading: "Pre-order a device for yourself, and we'll give one to a farmer in Africa 🙌"
+    text: "We're partnered with organizations in Tanzania and Kenya to distribute at least 1200 devices to farmers in those countries. Your purchase of a device covers the cost of another device for a farmer there. Help us reach all of these farmers by supporting our crowdfunding campaign"
     image: /img/platform_4.png
 
 signup:
