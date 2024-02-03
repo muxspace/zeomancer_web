@@ -14,6 +14,7 @@ why_blurb:
   #text: "Farmers comprise more than 60% of the population of Africa. Many farmers face chronic hunger due to the 40% of their crop lost to bad weather and climate change. Weather forecasts give farmers the data they need to protect their crops and increase their food security. Our weather stations power personalized weather forecasts for every farmer to combat hunger."
   list: 
   - Farmers comprise more than 60% of the population of Africa.
+  - While we take weather forecasts for granted, African farmers have no access to weather forecasts.
   - Many farmers face chronic hunger due to the 40% of their crop lost to bad weather and climate change.
   - Weather forecasts give farmers the data they need to protect their crops and increase their food security.
   - Our weather stations power personalized weather forecasts for every farmer to combat hunger.
@@ -43,7 +44,7 @@ zeo_benefits:
     image: img/zeomancer_device_4.jpeg
   items:
   - image: img/icons/rugged_11.jpeg
-    text: Rugged and resilient case made from UV and impact resistant ABS
+    text: Rugged and resilient case made from UV- and impact-resistant ABS
   - image: img/icons/mount_2.jpeg
     text: Easy to mount with shoelaces, wire, or just hook onto a fence
   - image: img/icons/wrench_1.jpeg
@@ -68,7 +69,13 @@ zeo_uses:
   - image: /img/icons/fumes_2.jpeg
     text: "Toxic fumes can quickly accumulate indoors and make us sick. Zeomancer can monitor your air quality and help you improve your indoor air quality."
 
+
 # long-text
+more_benefits:
+  class: bg-dark-green
+  text: Helping African farmers increase crop yields strengthens food security globally. Higher productivity means more food at lower prices, which benefits everyone.
+
+# text-over-image
 what_blurb:
   class: bg-grey-1
   heading: "With your help, we can end hunger in Africa, in spite of climate change"
