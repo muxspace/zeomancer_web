@@ -1,27 +1,25 @@
 ---
-title: "Zeomancer: A low-cost weather station to help farmers in Africa (and you) adapt to climate change"
-subtitle: Our small-but-mighty sensor device gives farmers and concerned citizens alike access to critical data to survive and thrive in a changing climate. Help us bring climate justice to those most vulnerable to climate change.
+title: "800 million African farmers lose 40% of their crop to extreme weather"
+subtitle: Help us give 1200 weather stations to farmers in Tanzania and Kenya so they can protect their crops and increase their food security.
 
 image: /img/home-jumbotron-farm2.jpg
 
-# long-text
-what_blurb:
-    class: bg-grey-1
-    heading: "Pre-order a device for yourself, and we'll give one to a farmer in Africa 🙌"
-    text: "We're partnered with organizations in Tanzania and Kenya to distribute at least 1200 devices to farmers in those countries. Help us reach all of these farmers by supporting our crowdfunding campaign. Your purchase of a device covers the cost of another device for a farmer there."
-    #image: /img/platform_4.png
-    image: /img/zeomancer_device_2.jpeg
-
 signup:
-    heading: Sign up now 👇 and get 40% OFF the retail price!
-    subheading: Launching on Kickstarter soon
+    heading: Get notified when our crowdfunding campaign launches
+    subheading: Direct action via crowdfunding is the best way to quickly get devices into the hands of farmers. Show your support by subscribing to our newsletter and joining us on our journey!
 
 # text-and-image
 why_blurb:
   heading: Why weather stations?
-  text: "Farmers comprise more than 70% of the population of Africa and subsist on the food they grow. These farmers have no access to weather forecasts and are at the mercy of the heavens. That results in crop losses of 30% or more per year. Access to reliable, hyperlocal weather forecasts does more than help farmers adapt to climate change. They also increase food security and help alleviate poverty."
-  image: /img/tanzania_children_1_8x_r04_crop.jpeg
-  caption: A test site for Zeomancer in the Katavi region of Tanzania. Most farmers do not have machinery or irrigation, not to mention weather forecasts. Photo courtesy Abdala Liingilie.
+  #text: "Farmers comprise more than 60% of the population of Africa. Many farmers face chronic hunger due to the 40% of their crop lost to bad weather and climate change. Weather forecasts give farmers the data they need to protect their crops and increase their food security. Our weather stations power personalized weather forecasts for every farmer to combat hunger."
+  list: 
+  - Farmers comprise more than 60% of the population of Africa.
+  - Many farmers face chronic hunger due to the 40% of their crop lost to bad weather and climate change.
+  - Weather forecasts give farmers the data they need to protect their crops and increase their food security.
+  - Our weather stations power personalized weather forecasts for every farmer to combat hunger.
+  - These devices can also collect soil data to further improve crop yields, helping farmers break free from poverty.
+  image: img/zeomancer_device_transparent_bg.png
+  caption: Yes, this is a weather station! Our prototype weather station (and sensor device) is super small and comes packed with a battery, an integrated solar panel, WiFi, and many clever mounting options.
 
 # 3-up
 why_icons:
@@ -36,6 +34,22 @@ why_icons:
   - image: img/farm_flood_13.jpeg
     bg: F9F3DB
     text: "While rain is less frequent, the intensity of storms is increasing. Farmers need to protect against floods and other water events."
+
+# 4-up
+zeo_benefits:
+  heading: Designed to maximize good
+  text: We're on a mission to improve the lives of millions of farmers. To do that, our tiny weather stations are cheap, easy to use, and last years, even with limited infrastructure.
+  showcase:
+    image: img/zeomancer_device_4.jpeg
+  items:
+  - image: img/icons/rugged_11.jpeg
+    text: Rugged and resilient case made from UV and impact resistant ABS
+  - image: img/icons/mount_2.jpeg
+    text: Easy to mount with shoelaces, wire, or just hook onto a fence
+  - image: img/icons/wrench_1.jpeg
+    text: Easy to repair and upgrade with commodity parts
+  - image: img/icons/future_3.jpeg
+    text: Future proof with multiple sensor expansion slots and over-the-air firmware updates
 
 # 4-up
 zeo_uses:
@@ -53,6 +67,15 @@ zeo_uses:
     text: "Wildfires are more frequent and last longer. Make sure your indoor environment stays smoke free."
   - image: /img/icons/fumes_2.jpeg
     text: "Toxic fumes can quickly accumulate indoors and make us sick. Zeomancer can monitor your air quality and help you improve your indoor air quality."
+
+# long-text
+what_blurb:
+  class: bg-grey-1
+  heading: "With your help, we can end hunger in Africa, in spite of climate change"
+  text: "We're partnered with eCoDigital in Tanzania and KISSPRO in Kenya to give 1200 devices to farmers this year and even more next year. Help us reach all of these farmers by supporting our upcoming crowdfunding campaign."
+  #image: /img/tanzania_children_1_8x_r04_crop.jpeg
+  image: /img/tanzania_children_saturated_rect.png
+  caption: A future test site for our weather station in the Katavi region of Tanzania. Most farmers do not have machinery or irrigation, let alone weather forecasts. Photo courtesy Abdala Liingilie.
 
 
 ---

@@ -2,15 +2,18 @@
 
 {{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title "subtitle" .Params.subtitle) }}
 
-{{ partial "long-text" .Params.what_blurb }}
-
 {{ partial "campaign-signup" .Params.signup }}
+
+<!--
+{{ partial "long-text" .Params.what_blurb }}
+-->
 
 {{ partial "text-and-image" .Params.why_blurb }}
 {{ partial "3-up" .Params.why_icons }}
 
-{{ partial "4-up" .Params.zeo_uses }}
+{{ partial "4-up" .Params.zeo_benefits }}
 
+{{ partial "text-over-image" .Params.what_blurb }}
 
 <!--{{ partial "text-and-image" (dict "heading" .Params.values.heading "text" .Params.values.text "buttonText" "Read more" "buttonLink" "/values") }}-->
 

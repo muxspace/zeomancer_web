@@ -3,15 +3,23 @@
 
     <h2 class="f2 b lh-title mb2">{{.heading}}</h2>
 		<div class="flex-l mhn2-l">
-			<div class="w-40-l">
+			<div class="w-50-l ph2-l">
+				<img src="{{.image}}" alt="" class="mb3">
+			  <p style="margin-top:-2em;font-size:11pt;">{{.caption}}</p>
+      </div>
 
-				<p>{{.text}}</p>
+			<div class="w-50-l">
+        {{ $listItems := .list }}
+        {{ with .list }}
+        <ul class="list">
+          {{ range $listItems }}
+            <li class="mb3">{{ . }}</li>
+          {{ end }}
+        </ul>
+        {{ end }}
+				<p class="f4">{{.text}}</p>
 			</div>
 
-			<div class="w-60-l ph2-l">
-				<img src="{{.image}}" alt="" class="mb3">
-			  <p style="margin-top:-2em;font-size:10pt;">{{.caption}}</p>
-      </div>
 		</div>
 
     {{ $buttonText := .buttonText }}
