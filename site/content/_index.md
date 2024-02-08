@@ -1,23 +1,27 @@
 ---
-title: "800 million African farmers lose 40% of their crop to extreme weather"
-subtitle: Help us give 1200 weather stations to farmers in Tanzania and Kenya so they can protect their crops and increase their food security.
+title: "End hunger despite climate change"
+subtitle: One small device helps farmers protect their crops and increase global food security
+#title: "800 million African farmers lose 40% of their crop to extreme weather"
+#subtitle: Help us give 1200 weather stations to farmers in Tanzania and Kenya so they can protect their crops and increase their food security. 
 
 image: /img/home-jumbotron-farm2.jpg
 
 signup:
     heading: Get notified when our crowdfunding campaign launches
-    subheading: Direct action via crowdfunding is the best way to quickly get devices into the hands of farmers. Show your support by subscribing to our newsletter and joining us on our journey!
+    subheading: Direct action via crowdfunding is the best way to quickly get devices into the hands of 1200 farmers in Tanzania and Kenya. Subscribe to our newsletter and join us on our journey!
+#    subheading: Direct action via crowdfunding is the best way to quickly get devices into the hands of 1200 farmers in Tanzania and Kenya. Subscribe to our newsletter and join us on our journey!
 
 # text-and-image
 why_blurb:
-  heading: Why weather stations?
+  heading: Ending hunger with data
   #text: "Farmers comprise more than 60% of the population of Africa. Many farmers face chronic hunger due to the 40% of their crop lost to bad weather and climate change. Weather forecasts give farmers the data they need to protect their crops and increase their food security. Our weather stations power personalized weather forecasts for every farmer to combat hunger."
   list: 
-  - Farmers comprise more than 60% of the population of Africa.
-  - While we take weather forecasts for granted, African farmers have no access to weather forecasts.
-  - Many farmers face chronic hunger due to the 40% of their crop lost to bad weather and climate change.
-  - Weather forecasts give farmers the data they need to protect their crops and increase their food security.
-  - Our weather stations power personalized weather forecasts for every farmer to combat hunger.
+#  - Farmers comprise more than 60% of the population of Africa.
+  - There are 800 million farmers in Africa.
+  - We take weather forecasts for granted, but African farmers have no access to weather forecasts.
+  - Farmers lose 40% of their crop to bad weather and climate change, resulting in chronic hunger.
+  - Weather forecasts give farmers the data they need to protect their crops and combat hunger.
+  - Our weather stations power personalized weather forecasts for every farmer.
   - These devices can also collect soil data to further improve crop yields, helping farmers break free from poverty.
   image: img/zeomancer_device_transparent_bg.png
   caption: Yes, this is a weather station! Our prototype weather station (and sensor device) is super small and comes packed with a battery, an integrated solar panel, WiFi, and many clever mounting options.
@@ -36,12 +40,18 @@ why_icons:
     bg: F9F3DB
     text: "While rain is less frequent, the intensity of storms is increasing. Farmers need to protect against floods and other water events."
 
+# long-text
+more_benefits:
+  class: bg-dark-green
+  text: Helping African farmers increase crop yields strengthens food security globally. Higher productivity means more food at lower prices, which benefits everyone.
+
 # 4-up
 zeo_benefits:
   heading: Designed to maximize good
   text: We're on a mission to improve the lives of millions of farmers. To do that, our tiny weather stations are cheap, easy to use, and last years, even with limited infrastructure.
   showcase:
     image: img/zeomancer_device_4.jpeg
+    caption: Our small but mighty device is smaller than a coffee mug and easily mounts anywhere.
   items:
   - image: img/icons/rugged_11.jpeg
     text: Rugged and resilient case made from UV- and impact-resistant ABS
@@ -69,11 +79,6 @@ zeo_uses:
   - image: /img/icons/fumes_2.jpeg
     text: "Toxic fumes can quickly accumulate indoors and make us sick. Zeomancer can monitor your air quality and help you improve your indoor air quality."
 
-
-# long-text
-more_benefits:
-  class: bg-dark-green
-  text: Helping African farmers increase crop yields strengthens food security globally. Higher productivity means more food at lower prices, which benefits everyone.
 
 # text-over-image
 what_blurb:
