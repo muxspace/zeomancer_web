@@ -78,7 +78,7 @@ more_benefits:
 # text-over-image
 what_blurb:
   class: bg-grey-1
-  heading: "With your help, we can end hunger in Africa, in spite of climate change"
+  heading: "Together we can end hunger in Africa, in spite of climate change"
   text: "We're partnered with eCoDigital in Tanzania and KISSPRO in Kenya to give 1200 devices to farmers this year and even more next year. Help us reach all of these farmers by supporting our upcoming crowdfunding campaign."
   #image: /img/tanzania_children_1_8x_r04_crop.jpeg
   image: /img/tanzania_children_saturated_rect.png
